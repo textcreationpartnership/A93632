@@ -1,0 +1,284 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A speech spoken to his excellency the Lord General Monk, by one representing the genius of England at Drapers-Hall, Wednesday the 28. of March.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93632</idno>
+            <idno type="STC">Wing S4870</idno>
+            <idno type="STC">Thomason 669.f.24[45]</idno>
+            <idno type="STC">ESTC R211777</idno>
+            <idno type="EEBO-CITATION">99870476</idno>
+            <idno type="PROQUEST">99870476</idno>
+            <idno type="VID">163776</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93632)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163776)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 247:669f24[45])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A speech spoken to his excellency the Lord General Monk, by one representing the genius of England at Drapers-Hall, Wednesday the 28. of March.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "March. 29 1660".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Albemarle, George Monck, --  Duke of, 1608-1670 --  Poetry --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:163776:1" rendition="simple:additions"/>
+            <head>A SPEECH Spoken to his Excellency the LORD GENERAL MONK, <hi>BY ONE</hi> Repreſenting the Genius of <hi>ENGLAND</hi> at <hi>Drapers-Hall,</hi> Wedneſday the 28. <hi>of March.</hi>
+            </head>
+            <l>NOW almoſt twenty yeares have roul'd about</l>
+            <l>Since firſt the flames of our late Wars broke out;</l>
+            <l>And <hi>Brittain</hi> fainting with the loſſe of blood</l>
+            <l>Under a lawleſſe Yoke ſubjected ſtood,</l>
+            <l>When now at laſt her groanes by Heav'n are heard</l>
+            <l>Her fainting <hi>Soule</hi> and dying <hi>Hopes</hi> uprear'd;</l>
+            <l>Her ſable night of ſorrow done away</l>
+            <l>By the new dauning of a <hi>Royall</hi> day,</l>
+            <l>As from the <hi>North</hi> her firſt diſtemper grew,</l>
+            <l>Thence flowes the <hi>Soveraigne Med'cine</hi> to renue</l>
+            <l>Her joys againe: She hop<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s ſecure to ſtand</l>
+            <l>Upheld by her brave <hi>Generall's</hi> Warlike hand.</l>
+            <l>Over the <hi>Brittiſh</hi> Seas flyes his great Name</l>
+            <l>Bor<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> on the ſwift wings of no common fame,</l>
+            <l>Our Enemies tremble, and our freinds are glad</l>
+            <l>To theſe 'tis joyfull newes, to thoſe 'tis ſad</l>
+            <l>The mighty ſhouts and the <hi>Stentorian</hi> voice</l>
+            <l>Of the glad multitude that now rejoyce</l>
+            <l>Awak's the drowſie <hi>Genius,</hi> if this I'le,</l>
+            <l>Who wept ſo long or'e <hi>Charles's</hi> Funerall pyle</l>
+            <l>Till his ſwolne eyes with a <hi>Lethargic</hi> ſleep</l>
+            <l>Were ſeal'd up, having no more teares to weep.</l>
+            <l>He underſtands the cauſe of <hi>Englands</hi> joy</l>
+            <l>And leaſt <hi>Ambition</hi> ſhould their hopes deſtroy</l>
+            <l>He boldly doth his mind to <hi>Monk</hi> expreſſe</l>
+            <l>And ſhewes how he may <hi>Brittains ills</hi> redreſſe.</l>
+            <div type="part">
+               <head>The Genius Speech.</head>
+               <l>GReat man by blood, by vertue greater made,</l>
+               <l>Whoſe preſence Baniſhes the gloomy ſhade</l>
+               <l>O<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Brittaines</hi> night; the faire <hi>Aurora</hi> too</l>
+               <l>The Royall <hi>Phaebus</hi> uſhered in by you:</l>
+               <l>Thy Sword has cut our Chaines of ſlavery</l>
+               <l>Thy hands the <hi>Gordian</hi> knots of Tyranny</l>
+               <l>Unty'd; thy ſtrenuous Arms unhing'd our Gates</l>
+               <l>To ſhew thy ſtreng<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h, the greateſt pride abates,</l>
+               <l>To ſhew what thou couldſt do, that we thereby</l>
+               <l>Might on thy more than <hi>Samſon's</hi> ſtrength rely:</l>
+               <l>But what thou didſt was at anothers frown,</l>
+               <l>Thou hung'ſt them up, that kindneſſe was thy owne.</l>
+               <l>Great <hi>Hercules</hi> of our Ile at laſt thou'ſt ſlaine</l>
+               <l>That Hydra never more to riſe againe,</l>
+               <l>Though often cruſh'd, that Monſtrous <hi>Taile,</hi> (which bit</l>
+               <l>Her owne head off) did reſurrection git,</l>
+               <l>But now ſhe's dead, and never more ſhall riſe,</l>
+               <l>Tryumps, not teares attend her Obſequies.</l>
+               <l>And now but one ſtop more and thy great name</l>
+               <l>Regiſter'd ſtand ſhall in the book of Fame</l>
+               <l>In ſo great <hi>Characters</hi> the world may read</l>
+               <l>Thy marchleſſe ſtory when that thou art dead:</l>
+               <l>The World too little for thy fame ſhall be</l>
+               <l>And Princes honour ſhall thy name and thee.</l>
+               <l>See then great <hi>Generall, Brittaines Genius</hi> now</l>
+               <l>Before thee ſtands, and willing is to owe</l>
+               <l>A happyneſſe to thee, wherein thou may'ſt</l>
+               <l>Raiſe honour to thy ſelfe; if thou delay'ſt,</l>
+               <l>
+                  <hi>Time</hi> and <hi>neceſſity</hi> will thee prevent</l>
+               <l>And ſpoyle the luſtre of thy great intent.</l>
+               <l>Now drooping <hi>Brittaine</hi> raiſes up her head,</l>
+               <l>Inſpir'd by thee ſhe ariſes from the dead,</l>
+               <l>Her War-made breaches now are cur'd again,</l>
+               <l>And joys and eaſe ſucceed her griefe and paine,</l>
+               <l>Her ſpotleſſe Virgin Chores begin to ſing</l>
+               <l>
+                  <hi>Jö Paeans</hi> in honour to their King<g ref="char:punc">▪</g>
+               </l>
+               <l>Faile not her now-bigg hopes but be content</l>
+               <l>To raiſe an everlaſting Nonument</l>
+               <l>To thee and thy poſterity; that bayes</l>
+               <l>May Crown thy Brows and Ages ſpeake thy praiſe</l>
+               <l>Thou ſee'ſt our wants, and what it is wee'd have</l>
+               <l>It is a King of <hi>Charles's</hi> race we crave;</l>
+               <l>Since all the people in one voyce agree,</l>
+               <l>God's <hi>Oracle,</hi> 'tis God that asks it thee,</l>
+               <l>Who having ſcourg'd poor Brittain for her ſin,</l>
+               <l>Returnes her <hi>Baulme</hi> to cure her wounds again,</l>
+               <l>We 'ave try'd, and too too long, a <hi>Common wealth,</hi>
+               </l>
+               <l>Such as it was, a Bane to <hi>Englands</hi> Health,</l>
+               <l>Where fifty <hi>Tyrants</hi> with one mouth agree,</l>
+               <l>To eat up <hi>Law, Religion, Liberty.</hi>
+               </l>
+               <l>
+                  <hi>Monſters</hi> that Kings and Biſhops Lands devour,</l>
+               <l>Kept by extorted ſums the Nation poor;</l>
+               <l>
+                  <hi>Phyloſophers</hi> that changed all to gold,</l>
+               <l>And let goe nothing that their gripes could hold;</l>
+               <l>Yet theſe were they that needs would ſtiled be</l>
+               <l>The Keepers of our <hi>England's</hi> Libertie;</l>
+               <l>But by thy power great <hi>Monk</hi> wee'r freed again,</l>
+               <l>And <hi>George</hi> moſt bravely has the <hi>Dragon</hi> ſlain.</l>
+               <l>Ambitious <hi>Cromwell</hi> put the purple on,</l>
+               <l>And having ſlain the Father, rob'd the Son</l>
+               <l>Of right and title, to a royall Crown,</l>
+               <l>To ſet himſelfe up, pul'd another down,</l>
+               <l>And what he got by rapine, he made good,</l>
+               <l>Though by Religion cloak'd, by force and blood,</l>
+               <l>All what our <hi>Heroes</hi> once contended for,</l>
+               <l>With the ſad tempeſt of a civill War</l>
+               <l>Himſelfe uſurp'd; and gloryed in his pride</l>
+               <l>To have with peace what was to Kings deny'd,</l>
+               <l>But yet you ſee the <hi>Nation</hi> ſcourg'd, that God</l>
+               <l>Renews his mercy and has burn'd his rod,</l>
+               <l>And <hi>Cromwell</hi>'s name grows odious every where,</l>
+               <l>Which was obey'd not out of <hi>Love,</hi> but <hi>feare.</hi>
+               </l>
+               <l>Let his example your ambition curb,</l>
+               <l>Doe not our growing <hi>happineſſe</hi> diſturb,</l>
+               <l>By mounting of a <hi>Throne</hi> is none of yours,</l>
+               <l>For be aſſured that the ſacred powers,</l>
+               <l>Will blaſt the firſt fruites of thy tyranny,</l>
+               <l>
+                  <hi>Fraud</hi> muſt preſerve what's got by policy</l>
+               <l>And now our people us'd to ſubtleties,</l>
+               <l>To be deceiv'd by crafts are grown too wiſe,</l>
+               <l>So that the fates deny thy Regiment,</l>
+               <l>And people to obey no more are bent,</l>
+               <l>Till he ariſes in the Brittiſh ſpheare,</l>
+               <l>Whom all deſire the royall Crown to wear.</l>
+               <l>Thou ſeeſt our griefes and knowſt the wayes to cure,</l>
+               <l>Our <hi>Maladies,</hi> thy <hi>Faith</hi> we knows too pure</l>
+               <l>For to be tempted to betray our hopes,</l>
+               <l>Who doubts thy <hi>loyalty</hi> to <hi>treaſon</hi> opes</l>
+               <l>Away; no though thou ſay'ſt thou'lt us deceive,</l>
+               <l>Such is our confidence wee'l not beleive,</l>
+               <l>Since one ſo good and great as Monk muſt be,</l>
+               <l>The onely Man can give us liberty.</l>
+               <l>
+                  <hi>Brittain</hi> in ſackcloth has mourn'd long enough,</l>
+               <l>'Tis time to lay aſide the <hi>Sword,</hi> and <hi>Buff,</hi>
+               </l>
+               <l>'Tis time to pull thoſe <hi>Puny-nobles</hi> down,</l>
+               <l>Who ſpeak againſt, and yet affect a Crown,</l>
+               <l>That thoſe by blood and virtue truly great,</l>
+               <l>May be enſtaled in their <hi>long-left</hi> ſeat,</l>
+               <l>Theſe ſhining in their <hi>ermin</hi> gallantry,</l>
+               <l>Beget a <hi>reverence</hi> due to <hi>Majeſty,</hi>
+               </l>
+               <l>Now I have done, and you have this to doe,</l>
+               <l>To bring him in for whom the Nation ſue,</l>
+               <l>Great <hi>Charles,</hi> who more then by ſeav'n twelve Months try'd,</l>
+               <l>And in afflictions Furnace purifi'd,</l>
+               <l>Muſt come forth brighter then try'd gold, more bright</l>
+               <l>Then luſtrous <hi>Sol</hi> after a dark ſome night;</l>
+               <l>Whoſe brighter beames of <hi>Love</hi> ſhall raiſe the ſlain,</l>
+               <l>And make our <hi>Halcyon</hi> dayes to live again;</l>
+               <l>
+                  <hi>England</hi> ſhall bleſſe thy name when this is done,</l>
+               <l>And ſtile the <hi>Phoſpher</hi> to the riſing Sun,</l>
+               <l>To thee ſhall <hi>Brittain</hi> pay her <hi>anuall</hi> vowes,</l>
+               <l>Whilſt <hi>Ducall</hi> diadems crown thy Princely brows.</l>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
